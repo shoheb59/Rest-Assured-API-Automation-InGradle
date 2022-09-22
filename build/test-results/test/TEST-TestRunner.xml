@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-21T12:35:16" hostname="DESKTOP-26NC8OF" time="6.462">
+  <properties/>
+  <testcase name="doLogin" classname="TestRunner" time="2.663"/>
+  <testcase name="getUserData" classname="TestRunner" time="3.799"/>
+  <system-out><![CDATA[eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbG1hbkBncnIubGEiLCJwYXNzd29yZCI6IjEyMzQiLCJpYXQiOjE2NjM3NjM3MTcsImV4cCI6MTY2Mzc2NTUxN30.ObKzAnEs4C32QBk9QAahDE4qodf1gQhgFkg-AF4Nz2s
+{id=47, name=Peter Wilderman, email=Adella.Beier26@yahoo.com, password=1234, phone_number=01529544898, nid=3ded6e00-525f-42c7-86fe-6f2247f1539a, role=Customer, createdAt=2022-02-02T18:42:19.000Z, updatedAt=2022-02-02T18:42:19.000Z, balance=30}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

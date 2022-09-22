@@ -2,8 +2,8 @@
 
 An API is tested by using REST Assured framework integrated with JUnit as testing framework for validation purpose
 
-<li>Login feature tested using proper valiadtion,negative test cases added for email and password.</li>
-<li> Can get user list by user authorization token, both positive and negative test cases are added for it.</li> <br />
+<li>Login feature tested. </li>
+<li> Can get user list by user authorization token,  positive test cases are added for it.</li> <br />
 
 **Technology:**
 <li> Tool: REST Assured </li>
